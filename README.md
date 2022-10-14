@@ -14,6 +14,7 @@ Now I am ______?, Be the Next ______?!***
 - Graphic Designer
 - HTML
 - CSS
+- Bootstrap
 
 <br>
 
