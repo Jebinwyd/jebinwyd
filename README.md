@@ -15,6 +15,7 @@ Now I am ______?, Be the Next ______?!***
 - HTML
 - CSS
 - Bootstrap
+- ui/ux
 
 <br>
 
