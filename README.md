@@ -1,7 +1,7 @@
 ### Hello there😈!
 
 <a href="https://t.me/https://t.me/"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://instagram.com/j_e_b__i_n__j_?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/creative_zpace?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
 
